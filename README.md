@@ -13,7 +13,7 @@ The most important goals were:
 First I created this prototype web app:
 - it contains two prototype checklists which are extracted out of a sql file. If I want to add another checklist, I simply add another table with those elements.
 - http://f28-preview.awardspace.net/checklistenannatue.eu.org/index.php this is the link to the prototype website
-- you can find the webapp in the "/webapp" folder of this repository
+- you can find the webapp in the "/webapp" folder of this repository. Keep in mind, that there is no sql server in this repository for serving the database to the php.
 
 I then realized having scripts for the creation of the webpage I need the app to cache all the contents and possibilities. I thought maybe its easier to code a simple app in android studio with the same functionality.
 
